@@ -1,1 +1,22 @@
-
+{
+  "strength": [
+    {
+      "date": "2015-04-02",
+      "pushups": 19,
+      "chinups": 15,
+      "pullups": 3
+    },
+    {
+      "date": "2015-04-04",
+      "pushups": 19,
+      "chinups": 15,
+      "pullups": 3
+    },
+    {
+      "date": "2015-04-10",
+      "pushups": 18,
+      "chinups": 4,
+      "pullups": 2
+    },    
+  ]
+}
